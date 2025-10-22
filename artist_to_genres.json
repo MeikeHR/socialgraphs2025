@@ -1,0 +1,2903 @@
+{
+    "Foo_Fighters": [
+        "Alternative_rock",
+        "Post-grunge",
+        "Hard_rock"
+    ],
+    "Genesis_(band)": [
+        "Progressive_rock",
+        "Art_rock",
+        "Pop_rock",
+        "Soft_rock"
+    ],
+    "Crash_Test_Dummies": [
+        "Alternative_rock",
+        "Folk_rock"
+    ],
+    "Creed_(band)": [
+        "Post-grunge",
+        "Hard_rock",
+        "Alternative_rock",
+        "Alternative_metal"
+    ],
+    "The_Mothers_of_Invention": [
+        "Jazz_rock",
+        "Experimental_rock",
+        "Progressive_rock",
+        "Comedy_rock",
+        "Blues_rock",
+        "Avant-garde_music",
+        "Doo-wop",
+        "Art_rock"
+    ],
+    "Three_Days_Grace": [
+        "Post-grunge",
+        "Hard_rock",
+        "Alternative_rock",
+        "Alternative_metal",
+        "Nu_metal"
+    ],
+    "Sly_and_the_Family_Stone": [
+        "Psychedelic_soul",
+        "Funk",
+        "Rock_music",
+        "Progressive_soul"
+    ],
+    "John_Mellencamp": [
+        "Heartland_rock",
+        "Roots_rock",
+        "Folk_rock"
+    ],
+    "Alice_in_Chains": [
+        "Grunge",
+        "Alternative_metal",
+        "Heavy_metal_music",
+        "Alternative_rock",
+        "Sludge_metal"
+    ],
+    "The_Lovin'_Spoonful": [
+        "Folk_rock",
+        "Pop_music",
+        "Rock_music"
+    ],
+    "Chubby_Checker": [
+        "Rock_and_roll"
+    ],
+    "Don_Henley": [
+        "Rock_music",
+        "Country_rock",
+        "Pop_rock",
+        "Hard_rock",
+        "Folk_rock"
+    ],
+    "Duane_Eddy": [
+        "Instrumental_rock",
+        "Rockabilly",
+        "Rock_and_roll",
+        "Country_music"
+    ],
+    "Thin_Lizzy": [
+        "Hard_rock",
+        "Blues_rock",
+        "Heavy_metal_music",
+        "Folk_rock"
+    ],
+    "Mötley_Crüe": [
+        "Heavy_metal_music",
+        "Glam_metal",
+        "Hard_rock"
+    ],
+    "Small_Faces": [
+        "Rock_music",
+        "Rhythm_and_blues",
+        "Beat_music",
+        "Pop_music",
+        "Psychedelia",
+        "Proto-punk",
+        "Progressive_pop"
+    ],
+    "Black_Veil_Brides": [
+        "Hard_rock",
+        "Alternative_metal",
+        "Glam_metal",
+        "Gothic_metal",
+        "Metalcore"
+    ],
+    "System_of_a_Down": [
+        "Alternative_metal",
+        "Nu_metal",
+        "Hard_rock",
+        "Progressive_metal"
+    ],
+    "Tenacious_D": [
+        "Comedy_rock",
+        "Acoustic_rock",
+        "Hard_rock",
+        "Heavy_metal_music"
+    ],
+    "Ian_Dury": [
+        "New_wave_music",
+        "Punk_rock",
+        "Post-punk",
+        "Funk",
+        "Disco",
+        "Pub_rock_(United_Kingdom)"
+    ],
+    "Iggy_Pop": [
+        "Rock_music",
+        "Punk_rock",
+        "Proto-punk",
+        "Hard_rock",
+        "Garage_rock"
+    ],
+    "Joe_Satriani": [
+        "Instrumental_rock",
+        "Hard_rock",
+        "Blues_rock"
+    ],
+    "Parliament_(band)": [
+        "Funk",
+        "Contemporary_R&B",
+        "Psychedelic_soul"
+    ],
+    "Chuck_Berry": [
+        "Rock_and_roll",
+        "Rhythm_and_blues"
+    ],
+    "Cheap_Trick": [
+        "Rock_music",
+        "Hard_rock",
+        "Power_pop"
+    ],
+    "Jimmy_Eat_World": [
+        "Alternative_rock",
+        "Emo",
+        "Pop-punk",
+        "Power_pop",
+        "Pop_rock"
+    ],
+    "Five_Finger_Death_Punch": [
+        "Groove_metal",
+        "Alternative_metal",
+        "Hard_rock"
+    ],
+    "Depeche_Mode": [
+        "Synth-pop",
+        "Electronic_rock",
+        "New_wave_music",
+        "Alternative_rock"
+    ],
+    "Cinderella_(band)": [
+        "Glam_metal",
+        "Hard_rock",
+        "Blues_rock"
+    ],
+    "Skillet_(band)": [
+        "Christian_rock",
+        "Hard_rock",
+        "Alternative_rock",
+        "Alternative_metal",
+        "Post-grunge",
+        "Nu_metal"
+    ],
+    "John_Mayall": [
+        "British_blues",
+        "Blues_rock",
+        "Jazz_rock"
+    ],
+    "10_Years_(band)": [
+        "Alternative_metal",
+        "Progressive_metal",
+        "Post-grunge",
+        "Nu_metal"
+    ],
+    "Gary_Glitter": [
+        "Glam_rock",
+        "Rock_and_roll",
+        "Pop_rock",
+        "Hard_rock",
+        "Disco"
+    ],
+    "The_Marshall_Tucker_Band": [
+        "Southern_rock",
+        "Country_rock",
+        "Progressive_country",
+        "Blues_rock",
+        "Jazz_fusion"
+    ],
+    "Peter_Frampton": [
+        "Rock_music"
+    ],
+    "Emerson,_Lake_&_Palmer": [
+        "Progressive_rock",
+        "Art_rock"
+    ],
+    "John_Lennon": [
+        "Rock_music",
+        "Pop_music",
+        "Experimental_music"
+    ],
+    "Sublime_(band)": [
+        "Ska_punk",
+        "Reggae_rock"
+    ],
+    "Deftones": [
+        "Alternative_metal",
+        "Art_rock",
+        "Shoegaze",
+        "Nu_metal"
+    ],
+    "Seether": [
+        "Post-grunge",
+        "Hard_rock",
+        "Alternative_metal",
+        "Alternative_rock",
+        "Nu_metal"
+    ],
+    "Lynyrd_Skynyrd": [
+        "Southern_rock",
+        "Blues_rock",
+        "Country_rock",
+        "Hard_rock"
+    ],
+    "The_Bangles": [
+        "Pop_rock",
+        "Power_pop",
+        "New_wave_music",
+        "Paisley_underground"
+    ],
+    "The_Cure": [
+        "Gothic_rock",
+        "Post-punk",
+        "Alternative_rock",
+        "New_wave_music"
+    ],
+    "Bad_Company": [
+        "Hard_rock",
+        "Blues_rock"
+    ],
+    "Slipknot_(band)": [
+        "Nu_metal",
+        "Alternative_metal",
+        "Groove_metal"
+    ],
+    "Highly_Suspect": [
+        "Alternative_rock",
+        "Hard_rock",
+        "Blues_rock",
+        "Grunge",
+        "Garage_rock"
+    ],
+    "The_Black_Crowes": [
+        "Southern_rock",
+        "Blues_rock",
+        "Hard_rock",
+        "Roots_rock",
+        "Jam_band"
+    ],
+    "Tracy_Chapman": [
+        "Folk_music",
+        "Blues_rock",
+        "Pop_music",
+        "Soul_music"
+    ],
+    "U2": [
+        "Rock_music",
+        "Alternative_rock",
+        "Pop_rock",
+        "Post-punk"
+    ],
+    "Arctic_Monkeys": [
+        "Indie_rock",
+        "Garage_rock",
+        "Post-punk_revival",
+        "Psychedelic_rock",
+        "Lounge_music"
+    ],
+    "Killswitch_Engage": [
+        "Melodic_metalcore"
+    ],
+    "Travis_(band)": [
+        "Post-Britpop",
+        "Pop_rock",
+        "Alternative_rock"
+    ],
+    "John_Fogerty": [
+        "Roots_rock",
+        "Rock_and_roll",
+        "Country_rock",
+        "Heartland_rock",
+        "Blues_rock",
+        "Swamp_rock",
+        "Americana_(music)",
+        "Southern_rock"
+    ],
+    "Def_Leppard": [
+        "Hard_rock",
+        "Glam_metal",
+        "Arena_rock",
+        "Power_pop",
+        "Heavy_metal_music"
+    ],
+    "Steve_Miller_Band": [
+        "Blues_rock",
+        "Psychedelic_rock",
+        "Pop_rock"
+    ],
+    "Jackson_Browne": [
+        "Rock_music",
+        "Folk_rock",
+        "Soft_rock",
+        "Pop_rock",
+        "Country_rock"
+    ],
+    "Blur_(band)": [
+        "Britpop",
+        "Indie_rock",
+        "Alternative_rock",
+        "Art_pop"
+    ],
+    "Steppenwolf_(band)": [
+        "Psychedelic_rock",
+        "Blues_rock",
+        "Acid_rock",
+        "Hard_rock",
+        "Heavy_metal_music",
+        "Garage_rock"
+    ],
+    "Hootie_&_the_Blowfish": [
+        "Pop_rock",
+        "Alternative_rock",
+        "Soft_rock",
+        "Roots_rock",
+        "Heartland_rock",
+        "Jangle_pop"
+    ],
+    "Smash_Mouth": [
+        "Alternative_rock",
+        "Power_pop",
+        "Pop_rock",
+        "Ska_punk"
+    ],
+    "The_Kinks": [
+        "Rock_music",
+        "Pop_music"
+    ],
+    "Adam_Ant": [
+        "New_wave_music",
+        "Post-punk",
+        "Alternative_rock",
+        "Dance-rock"
+    ],
+    "Sam_Fender": [
+        "Rock_music",
+        "Indie_rock",
+        "Pop_rock",
+        "Heartland_rock"
+    ],
+    "Creedence_Clearwater_Revival": [
+        "Swamp_rock",
+        "Roots_rock",
+        "Blues_rock",
+        "Country_rock",
+        "Southern_rock"
+    ],
+    "The_Pretenders": [
+        "Rock_music",
+        "Pop_rock",
+        "New_wave_music",
+        "Alternative_rock"
+    ],
+    "Rainbow_(rock_band)": [
+        "Hard_rock",
+        "Heavy_metal_music"
+    ],
+    "FireHouse": [
+        "Glam_metal",
+        "Hard_rock"
+    ],
+    "The_Doobie_Brothers": [
+        "Rock_music",
+        "Soft_rock",
+        "Pop_music",
+        "Blue-eyed_soul"
+    ],
+    "Little_Richard": [
+        "Rock_and_roll",
+        "Rhythm_and_blues",
+        "Gospel_music",
+        "Soul_music"
+    ],
+    "Status_Quo_(band)": [
+        "Rock_music",
+        "Boogie_rock",
+        "Hard_rock",
+        "Psychedelic_music"
+    ],
+    "Hoobastank": [
+        "Alternative_rock",
+        "Nu_metal",
+        "Post-grunge",
+        "Funk_metal",
+        "Ska_punk"
+    ],
+    "Damn_Yankees_(band)": [
+        "Hard_rock",
+        "Arena_rock",
+        "Glam_metal"
+    ],
+    "Billy_Idol": [
+        "New_wave_music",
+        "Hard_rock",
+        "Pop_rock",
+        "Punk_rock"
+    ],
+    "Duran_Duran": [
+        "Pop_rock",
+        "Synth-pop",
+        "New_wave_music",
+        "Dance-rock"
+    ],
+    "Saving_Abel": [
+        "Rock_music",
+        "Hard_rock",
+        "Post-grunge",
+        "Southern_rock"
+    ],
+    "Mudvayne": [
+        "Alternative_metal",
+        "Nu_metal",
+        "Progressive_metal",
+        "Hard_rock"
+    ],
+    "Queens_of_the_Stone_Age": [
+        "Alternative_rock",
+        "Stoner_rock",
+        "Palm_Desert_Scene",
+        "Hard_rock",
+        "Alternative_metal"
+    ],
+    "Snow_Patrol": [
+        "Alternative_rock",
+        "Power_pop",
+        "Post-Britpop",
+        "Indie_rock"
+    ],
+    "Chevelle_(band)": [
+        "Hard_rock",
+        "Alternative_metal",
+        "Alternative_rock",
+        "Post-grunge",
+        "Nu_metal"
+    ],
+    "The_Go-Go's": [
+        "New_wave_music",
+        "Pop_rock",
+        "Power_pop",
+        "Post-punk",
+        "Punk_rock"
+    ],
+    "Supertramp": [
+        "Progressive_pop",
+        "Progressive_rock",
+        "Soft_rock",
+        "Pop_music"
+    ],
+    "David_Bowie": [
+        "Art_rock",
+        "Glam_rock",
+        "Pop_music",
+        "Electronic_music"
+    ],
+    "Bread_(band)": [
+        "Soft_rock"
+    ],
+    "Tool_(band)": [
+        "Alternative_metal",
+        "Art_rock",
+        "Post-metal",
+        "Progressive_metal",
+        "Progressive_rock"
+    ],
+    "Crosby,_Stills,_Nash_&_Young": [
+        "Folk_rock",
+        "Soft_rock",
+        "Country_rock",
+        "Folk_pop"
+    ],
+    "The_Strokes": [
+        "Indie_rock",
+        "Garage_rock_revival",
+        "Post-punk_revival",
+        "New_wave_music",
+        "Synth-pop"
+    ],
+    "Metallica": [
+        "Heavy_metal_music",
+        "Thrash_metal",
+        "Speed_metal",
+        "Hard_rock"
+    ],
+    "Twenty_One_Pilots": [
+        "Alternative_rock",
+        "Electropop",
+        "Alternative_hip-hop",
+        "Pop_rap",
+        "Indie_pop",
+        "Pop_rock"
+    ],
+    "Ben_Folds_Five": [
+        "Alternative_rock",
+        "Power_pop"
+    ],
+    "The_Who": [
+        "Rock_music",
+        "Hard_rock",
+        "Power_pop",
+        "Proto-punk"
+    ],
+    "Drowning_Pool": [
+        "Alternative_metal",
+        "Nu_metal",
+        "Hard_rock",
+        "Post-grunge"
+    ],
+    "Halestorm": [
+        "Hard_rock",
+        "Heavy_metal_music",
+        "Alternative_metal",
+        "Post-grunge",
+        "Alternative_rock"
+    ],
+    "Foreigner_(band)": [
+        "Hard_rock",
+        "Soft_rock",
+        "Arena_rock"
+    ],
+    "Robert_Plant": [
+        "Rock_music",
+        "Blues",
+        "Folk_music",
+        "Country_music",
+        "Hard_rock",
+        "Heavy_metal_music"
+    ],
+    "Royal_Blood_(band)": [
+        "Hard_rock",
+        "Blues_rock",
+        "Garage_rock",
+        "Stoner_rock",
+        "Alternative_rock"
+    ],
+    "Hall_&_Oates": [
+        "Pop_rock",
+        "Blue-eyed_soul",
+        "Soft_rock",
+        "Rhythm_and_blues"
+    ],
+    "The_Pretty_Reckless": [
+        "Hard_rock",
+        "Alternative_rock",
+        "Post-grunge",
+        "Blues_rock"
+    ],
+    "Weezer": [
+        "Alternative_rock",
+        "Power_pop",
+        "Pop_rock",
+        "Geek_rock",
+        "Pop-punk",
+        "Emo"
+    ],
+    "Run-DMC": [
+        "Hip-hop",
+        "Rap_rock"
+    ],
+    "The_Smiths": [
+        "Indie_pop",
+        "Indie_rock",
+        "Jangle_pop",
+        "Alternative_rock"
+    ],
+    "Eagles_(band)": [
+        "Rock_music",
+        "Country_rock",
+        "Soft_rock",
+        "Folk_rock"
+    ],
+    "Motörhead": [
+        "Heavy_metal_music",
+        "Hard_rock",
+        "Speed_metal"
+    ],
+    "No_Doubt": [
+        "Ska_punk",
+        "Pop_rock",
+        "New_wave_music",
+        "Alternative_rock",
+        "Pop-punk",
+        "Reggae"
+    ],
+    "A_Perfect_Circle": [
+        "Alternative_rock",
+        "Alternative_metal",
+        "Hard_rock",
+        "Art_rock"
+    ],
+    "Joe_Walsh": [
+        "Hard_rock",
+        "Blues_rock",
+        "Pop_rock",
+        "Progressive_rock",
+        "Country_rock"
+    ],
+    "Canned_Heat": [
+        "Blues_rock",
+        "Boogie_rock"
+    ],
+    "The_Cranberries": [
+        "Alternative_rock",
+        "Indie_rock",
+        "Pop_rock",
+        "Jangle_pop",
+        "Post-punk",
+        "Dream_pop"
+    ],
+    "Days_of_the_New": [
+        "Post-grunge",
+        "Alternative_rock",
+        "Grunge",
+        "Acoustic_music",
+        "Alternative_metal"
+    ],
+    "Sublime_with_Rome": [
+        "Reggae_rock",
+        "Alternative_rock",
+        "Hip_hop_music",
+        "Dub_music",
+        "Ska_punk",
+        "Punk_rock"
+    ],
+    "Vampire_Weekend": [
+        "Indie_rock",
+        "Indie_pop",
+        "Art_pop",
+        "Baroque_pop",
+        "Worldbeat"
+    ],
+    "The_Band": [
+        "Roots_rock",
+        "Americana_(music)",
+        "Folk_rock",
+        "Country_rock"
+    ],
+    "Elton_John": [
+        "Pop_rock",
+        "Glam_rock",
+        "Soft_rock",
+        "Blues"
+    ],
+    "Linkin_Park": [
+        "Alternative_rock",
+        "Nu_metal",
+        "Rap_rock",
+        "Alternative_metal",
+        "Electronic_rock",
+        "Pop_rock"
+    ],
+    "Judas_Priest": [
+        "Heavy_metal_music"
+    ],
+    "The_Monkees": [
+        "Pop_rock",
+        "Rock_music",
+        "Bubblegum_music",
+        "Psychedelic_music"
+    ],
+    "Velvet_Revolver": [
+        "Hard_rock",
+        "Alternative_metal"
+    ],
+    "Men_at_Work": [
+        "New_wave_music",
+        "Pop_rock",
+        "Reggae_rock"
+    ],
+    "Bee_Gees": [
+        "Disco",
+        "Pop_music",
+        "Soul_music",
+        "Rock_music",
+        "Soft_rock"
+    ],
+    "Blues_Traveler": [
+        "Blues_rock",
+        "Folk_rock",
+        "Alternative_rock",
+        "Southern_rock",
+        "Jam_band"
+    ],
+    "The_All-American_Rejects": [
+        "Pop-punk",
+        "Power_pop",
+        "Alternative_rock",
+        "Pop_rock",
+        "Emo_pop"
+    ],
+    "Stevie_Ray_Vaughan": [
+        "Texas_blues",
+        "Blues_rock",
+        "Electric_blues",
+        "Rock_and_roll"
+    ],
+    "Everclear_(band)": [
+        "Alternative_rock",
+        "Power_pop",
+        "Post-grunge",
+        "Pop_rock",
+        "Grunge",
+        "Punk_rock"
+    ],
+    "Whitesnake": [
+        "Hard_rock",
+        "Blues_rock",
+        "Glam_metal"
+    ],
+    "Breaking_Benjamin": [
+        "Hard_rock",
+        "Post-grunge",
+        "Alternative_metal",
+        "Alternative_rock"
+    ],
+    "Eddie_Cochran": [
+        "Rock_and_roll",
+        "Rockabilly",
+        "Country_music",
+        "Rhythm_and_blues"
+    ],
+    "Christopher_Cross": [
+        "Rock_music",
+        "Pop_music",
+        "Soft_rock",
+        "Yacht_rock"
+    ],
+    "Faces_(band)": [
+        "Rock_music",
+        "Blues"
+    ],
+    "Primus_(band)": [
+        "Alternative_metal",
+        "Funk_metal",
+        "Experimental_rock",
+        "Progressive_rock"
+    ],
+    "Janis_Joplin": [
+        "Psychedelic_rock",
+        "Blues_rock",
+        "Soul_music",
+        "Blues"
+    ],
+    "Slayer": [
+        "Thrash_metal"
+    ],
+    "Steely_Dan": [
+        "Jazz_rock",
+        "Yacht_rock",
+        "Soft_rock",
+        "Pop_music",
+        "Jazz_fusion"
+    ],
+    "Led_Zeppelin": [
+        "Hard_rock",
+        "Blues_rock",
+        "Folk_rock",
+        "Heavy_metal_music"
+    ],
+    "The_Animals": [
+        "Blues_rock",
+        "British_rhythm_and_blues",
+        "Psychedelic_rock",
+        "Progressive_rock",
+        "Rock_and_roll"
+    ],
+    "Ramones": [
+        "Punk_rock",
+        "Pop-punk"
+    ],
+    "Ozzy_Osbourne": [
+        "Heavy_metal_music",
+        "Hard_rock"
+    ],
+    "Tom_Petty": [
+        "Rock_music",
+        "Heartland_rock",
+        "Roots_rock",
+        "Country_rock",
+        "Southern_rock"
+    ],
+    "Jack_White": [
+        "Blues_rock",
+        "Garage_rock_revival",
+        "Alternative_rock",
+        "Punk_blues",
+        "Experimental_rock"
+    ],
+    "Buddy_Holly": [
+        "Rock_and_roll",
+        "Rockabilly",
+        "Pop_music"
+    ],
+    "Kid_Rock": [
+        "Rock_music",
+        "Hip-hop",
+        "Country_music",
+        "Heavy_metal_music"
+    ],
+    "Kiss_(band)": [
+        "Hard_rock",
+        "Heavy_metal_music",
+        "Shock_rock",
+        "Glam_metal"
+    ],
+    "Blue_Öyster_Cult": [
+        "Hard_rock",
+        "Heavy_metal_music",
+        "Occult_rock",
+        "Psychedelic_rock",
+        "Progressive_rock",
+        "Acid_rock"
+    ],
+    "Jeff_Buckley": [
+        "Alternative_rock",
+        "Folk-rock",
+        "Blues"
+    ],
+    "Talking_Heads": [
+        "New_wave_music",
+        "Post-punk",
+        "Avant-funk",
+        "Art_pop",
+        "Worldbeat"
+    ],
+    "Coheed_and_Cambria": [
+        "Progressive_rock",
+        "Alternative_rock",
+        "Post-hardcore",
+        "Emo",
+        "Progressive_metal"
+    ],
+    "Little_River_Band": [
+        "Rock_music",
+        "Album-oriented_rock",
+        "Pop_rock",
+        "Soft_rock"
+    ],
+    "Grateful_Dead": [
+        "Rock_music"
+    ],
+    "Joan_Jett": [
+        "Rock_music",
+        "Hard_rock",
+        "Punk_rock"
+    ],
+    "The_Rolling_Stones": [
+        "Rock_music",
+        "Pop_music",
+        "Blues"
+    ],
+    "Paramore": [
+        "Pop-punk",
+        "Emo",
+        "Pop_rock",
+        "Alternative_rock",
+        "Power_pop",
+        "New_wave_music"
+    ],
+    "Dio_(band)": [
+        "Heavy_metal_music"
+    ],
+    "Rod_Stewart": [
+        "Blue-eyed_soul",
+        "Blues_rock",
+        "Folk_rock",
+        "Soft_rock",
+        "Disco",
+        "Traditional_pop"
+    ],
+    "Finger_Eleven": [
+        "Alternative_rock",
+        "Alternative_metal",
+        "Post-grunge",
+        "Hard_rock",
+        "Nu_metal"
+    ],
+    "Santana_(band)": [
+        "Latin_rock",
+        "Blues_rock",
+        "Psychedelic_rock",
+        "Acid_rock",
+        "Chicano_rock",
+        "Jazz_fusion",
+        "Yacht_rock"
+    ],
+    "Phil_Collins": [
+        "Pop_music",
+        "Soft_rock",
+        "Progressive_rock",
+        "Art_rock"
+    ],
+    "Elvis_Costello": [
+        "Rock_music",
+        "Pop_music",
+        "New_wave_music",
+        "Power_pop",
+        "Punk_rock",
+        "Pub_rock_(United_Kingdom)"
+    ],
+    "The_Beach_Boys": [
+        "Rock_music",
+        "Pop_music",
+        "Surf_music",
+        "Psychedelic_music"
+    ],
+    "Manfred_Mann_(musician)": [
+        "Beat_music",
+        "Blues_rock",
+        "British_rhythm_and_blues",
+        "Psychedelic_music",
+        "Jazz_rock",
+        "Progressive_rock",
+        "Hard_rock"
+    ],
+    "Trivium_(band)": [
+        "Metalcore",
+        "Thrash_metal",
+        "Heavy_metal_music",
+        "Progressive_metal"
+    ],
+    "Van_Morrison": [
+        "Blue-eyed_soul",
+        "Celtic_music",
+        "Rock_music",
+        "Rhythm_and_blues",
+        "Folk_music",
+        "Blues",
+        "Jazz",
+        "Country_music",
+        "Gospel_music",
+        "Christian_music"
+    ],
+    "Manfred_Mann": [
+        "Blues_rock",
+        "British_rhythm_and_blues",
+        "Pop_music",
+        "Beat_music",
+        "Psychedelic_music"
+    ],
+    "Cream_(band)": [
+        "Psychedelic_rock",
+        "Blues_rock",
+        "Acid_rock",
+        "Hard_rock",
+        "Jam_rock"
+    ],
+    "Staind": [
+        "Alternative_metal",
+        "Post-grunge",
+        "Nu_metal",
+        "Hard_rock"
+    ],
+    "Badfinger": [
+        "Rock_music",
+        "Power_pop"
+    ],
+    "Oasis_(band)": [
+        "Rock_music",
+        "Britpop"
+    ],
+    "Jethro_Tull_(band)": [
+        "Progressive_rock",
+        "Folk_rock",
+        "Hard_rock",
+        "Blues_rock"
+    ],
+    "Steve_Winwood": [
+        "Blue-eyed_soul",
+        "Rhythm_and_blues",
+        "Rock_music",
+        "Pop_music"
+    ],
+    "Imagine_Dragons": [
+        "Pop_rock",
+        "Electropop",
+        "Pop_music",
+        "Arena_rock",
+        "Alternative_rock",
+        "Indie_pop"
+    ],
+    "Styx_(band)": [
+        "Progressive_rock",
+        "Art_rock",
+        "Hard_rock",
+        "Arena_rock",
+        "Pop_rock"
+    ],
+    "Eddie_Money": [
+        "Rock_music",
+        "Pop_rock",
+        "Hard_rock"
+    ],
+    "Pantera": [
+        "Groove_metal",
+        "Thrash_metal",
+        "Glam_metal"
+    ],
+    "Guns_N'_Roses": [
+        "Hard_rock",
+        "Heavy_metal_music"
+    ],
+    "Alice_Cooper_(band)": [
+        "Hard_rock",
+        "Glam_rock",
+        "Shock_rock",
+        "Psychedelic_rock"
+    ],
+    "The_Byrds": [
+        "Folk_rock",
+        "Psychedelic_music",
+        "Raga_rock",
+        "Country_rock",
+        "Jangle_pop"
+    ],
+    "W.A.S.P._(band)": [
+        "Heavy_metal_music",
+        "Glam_metal",
+        "Shock_rock"
+    ],
+    "AFI_(band)": [
+        "Punk_rock",
+        "Gothic_rock",
+        "Horror_punk",
+        "Post-hardcore",
+        "Emo",
+        "Hardcore_punk"
+    ],
+    "Barenaked_Ladies": [
+        "Alternative_pop",
+        "Folk_rock",
+        "Pop_rock",
+        "Comedy_rock"
+    ],
+    "Ten_Years_After": [
+        "Blues_rock"
+    ],
+    "Jefferson_Starship": [
+        "Rock_music",
+        "Hard_rock",
+        "Psychedelic_rock",
+        "Progressive_rock",
+        "Soft_rock"
+    ],
+    "Pixies_(band)": [
+        "Alternative_rock",
+        "Indie_rock",
+        "Noise_pop",
+        "Punk_rock",
+        "Surf_rock"
+    ],
+    "Ghost_(Swedish_band)": [
+        "Hard_rock",
+        "Heavy_metal_music",
+        "Arena_rock",
+        "Pop_rock",
+        "Progressive_rock"
+    ],
+    "Arcade_Fire": [
+        "Indie_rock",
+        "Art_rock",
+        "Dance-rock",
+        "Baroque_pop"
+    ],
+    "Three_Dog_Night": [
+        "Pop_rock",
+        "Soft_rock",
+        "Roots_rock",
+        "Funk_rock",
+        "Blue-eyed_soul"
+    ],
+    "Manfred_Mann's_Earth_Band": [
+        "Progressive_rock",
+        "Hard_rock",
+        "Jazz_rock"
+    ],
+    "Billy_Talent": [
+        "Punk_rock",
+        "Alternative_rock",
+        "Post-hardcore",
+        "Pop-punk"
+    ],
+    "Crowded_House": [
+        "Pop_rock",
+        "Jangle_pop",
+        "Alternative_rock"
+    ],
+    "Sting_(musician)": [
+        "Pop_music",
+        "New_wave_music",
+        "Post-punk",
+        "Soft_rock"
+    ],
+    "INXS": [
+        "New_wave_music",
+        "Pub_rock_(Australia)",
+        "Dance-rock",
+        "Funk_rock",
+        "Alternative_rock"
+    ],
+    "Pat_Benatar": [
+        "Rock_music",
+        "Hard_rock",
+        "Pop_rock"
+    ],
+    "Gin_Blossoms": [
+        "Alternative_rock",
+        "Jangle_pop",
+        "Power_pop",
+        "Post-grunge",
+        "Country_rock"
+    ],
+    "Panic!_at_the_Disco": [
+        "Pop_rock",
+        "Baroque_pop",
+        "Electropop",
+        "Alternative_rock",
+        "Emo",
+        "Pop-punk"
+    ],
+    "Catfish_and_the_Bottlemen": [
+        "Alternative_rock",
+        "Indie_rock",
+        "Post-punk_revival"
+    ],
+    "The_Yardbirds": [
+        "Blues_rock",
+        "Psychedelic_rock",
+        "British_rhythm_and_blues"
+    ],
+    "Boys_Like_Girls": [
+        "Pop_rock",
+        "Pop-punk",
+        "Emo_pop",
+        "Alternative_rock"
+    ],
+    "Social_Distortion": [
+        "Punk_rock",
+        "Cowpunk",
+        "Rock_and_roll",
+        "Hardcore_punk"
+    ],
+    "The_Presidents_of_the_United_States_of_America_(band)": [
+        "Alternative_rock",
+        "Pop-punk",
+        "Post-grunge"
+    ],
+    "Godsmack": [
+        "Alternative_metal",
+        "Hard_rock",
+        "Post-grunge",
+        "Nu_metal"
+    ],
+    "Foals_(band)": [
+        "Indie_rock",
+        "Alternative_rock",
+        "Math_rock",
+        "Art_rock",
+        "Dance-punk"
+    ],
+    "Chris_Rea": [
+        "Pop_rock",
+        "Soft_rock",
+        "Electric_blues",
+        "Blues_rock"
+    ],
+    "Great_White": [
+        "Hard_rock",
+        "Glam_metal"
+    ],
+    "Traffic_(band)": [
+        "Progressive_rock",
+        "Psychedelic_rock",
+        "Jazz_rock",
+        "Folk_rock",
+        "Psychedelic_pop"
+    ],
+    "Saliva_(band)": [
+        "Nu_metal",
+        "Post-grunge",
+        "Alternative_metal",
+        "Rap_metal",
+        "Hard_rock"
+    ],
+    "Stone_Temple_Pilots": [
+        "Alternative_rock",
+        "Grunge",
+        "Hard_rock",
+        "Alternative_metal",
+        "Psychedelic_rock"
+    ],
+    "Incubus_(band)": [
+        "Alternative_rock",
+        "Alternative_metal",
+        "Funk_metal",
+        "Nu_metal"
+    ],
+    "Twisted_Sister": [
+        "Heavy_metal_music",
+        "Glam_metal",
+        "Hard_rock",
+        "Shock_rock"
+    ],
+    "Blue_October": [
+        "Alternative_rock",
+        "Art_rock",
+        "Post-grunge",
+        "New_wave_music",
+        "Synth-pop",
+        "Shoegaze"
+    ],
+    "Limp_Bizkit": [
+        "Nu_metal",
+        "Rap_rock",
+        "Rap_metal"
+    ],
+    "Marilyn_Manson": [
+        "Industrial_rock",
+        "Industrial_metal",
+        "Gothic_rock",
+        "Alternative_metal",
+        "Shock_rock"
+    ],
+    "Awolnation": [
+        "Alternative_rock",
+        "Electronic_rock",
+        "Indie_rock",
+        "Electropop",
+        "Pop_rock",
+        "Dance-rock"
+    ],
+    "Fuel_(band)": [
+        "Alternative_rock",
+        "Hard_rock",
+        "Post-grunge",
+        "Alternative_metal"
+    ],
+    "Smokie_(band)": [
+        "Pop_rock",
+        "Soft_rock",
+        "Glam_rock"
+    ],
+    "Black_Sabbath": [
+        "Heavy_metal_music"
+    ],
+    "Red_Hot_Chili_Peppers": [
+        "Funk_rock",
+        "Alternative_rock",
+        "Rap_rock",
+        "Funk_metal"
+    ],
+    "Pearl_Jam": [
+        "Grunge",
+        "Alternative_rock",
+        "Hard_rock"
+    ],
+    "Goo_Goo_Dolls": [
+        "Alternative_rock",
+        "Pop_rock",
+        "Post-grunge",
+        "Punk_rock"
+    ],
+    "Bryan_Adams": [
+        "Rock_music",
+        "Pop_rock",
+        "Soft_rock",
+        "Arena_rock",
+        "Heartland_rock"
+    ],
+    "Kaiser_Chiefs": [
+        "Indie_rock",
+        "Pop_rock",
+        "Post-punk_revival",
+        "Art_punk",
+        "Power_pop",
+        "Pop_punk",
+        "Alternative_rock"
+    ],
+    "Meat_Loaf": [
+        "Rock_music",
+        "Hard_rock"
+    ],
+    "Nirvana_(band)": [
+        "Grunge",
+        "Alternative_rock",
+        "Punk_rock"
+    ],
+    "Joy_Division": [
+        "Post-punk",
+        "New_wave_music",
+        "Gothic_rock"
+    ],
+    "Scorpions_(band)": [
+        "Hard_rock",
+        "Heavy_metal_music"
+    ],
+    "ZZ_Top": [
+        "Blues_rock",
+        "Hard_rock",
+        "Boogie_rock",
+        "Southern_rock"
+    ],
+    "Filter_(band)": [
+        "Industrial_rock",
+        "Post-grunge",
+        "Alternative_rock",
+        "Hard_rock",
+        "Industrial_metal",
+        "Alternative_metal"
+    ],
+    "The_Smashing_Pumpkins": [
+        "Alternative_rock"
+    ],
+    "Kansas_(band)": [
+        "Progressive_rock",
+        "Art_rock",
+        "Hard_rock",
+        "Arena_rock"
+    ],
+    "Foster_the_People": [
+        "Indie_pop",
+        "Synth-pop",
+        "Dance-pop",
+        "Alternative_rock",
+        "Indie_rock",
+        "Neo-psychedelia"
+    ],
+    "Jim_Croce": [
+        "Folk_music",
+        "Soft_rock"
+    ],
+    "Warrant_(American_band)": [
+        "Glam_metal",
+        "Hard_rock",
+        "Heavy_metal_music"
+    ],
+    "The_Cult": [
+        "Hard_rock",
+        "Gothic_rock",
+        "Alternative_rock",
+        "Heavy_metal_music",
+        "Post-punk"
+    ],
+    "Uriah_Heep_(band)": [
+        "Hard_rock",
+        "Progressive_rock",
+        "Heavy_metal_music"
+    ],
+    "The_Alan_Parsons_Project": [
+        "Progressive_rock",
+        "Art_rock",
+        "Progressive_pop",
+        "Soft_rock"
+    ],
+    "Avenged_Sevenfold": [
+        "Heavy_metal_music",
+        "Progressive_metal",
+        "Alternative_metal",
+        "Hard_rock",
+        "Metalcore"
+    ],
+    "Neil_Young": [
+        "Rock_music",
+        "Folk_rock",
+        "Country_rock"
+    ],
+    "Fats_Domino": [
+        "Rock_and_roll",
+        "New_Orleans_R&B",
+        "Boogie-woogie",
+        "Blues"
+    ],
+    "Cold_Chisel": [
+        "Pub_rock_(Australia)",
+        "Rhythm_and_blues",
+        "Hard_rock",
+        "Rock_and_roll"
+    ],
+    "Asia_(band)": [
+        "Progressive_rock",
+        "Arena_rock",
+        "Pop_rock"
+    ],
+    "Beastie_Boys": [
+        "Hip-hop",
+        "Rap_rock",
+        "Alternative_hip-hop",
+        "Hardcore_punk"
+    ],
+    "Elvis_Presley": [
+        "Rock_and_roll",
+        "Pop_music",
+        "Rockabilly",
+        "Country_music",
+        "Gospel_music",
+        "R&B",
+        "Blue-eyed_soul",
+        "Blues"
+    ],
+    "Sixto_Rodriguez": [
+        "Folk_rock",
+        "Psychedelic_folk",
+        "Psychedelic_rock"
+    ],
+    "The_Mamas_&_the_Papas": [
+        "Folk_rock",
+        "Sunshine_pop"
+    ],
+    "New_York_Dolls": [
+        "Hard_rock",
+        "Proto-punk",
+        "Glam_rock",
+        "Glam_punk"
+    ],
+    "Bruce_Springsteen": [
+        "Rock_music",
+        "Heartland_rock",
+        "Folk_music",
+        "Pop_rock"
+    ],
+    "Tesla_(band)": [
+        "Hard_rock",
+        "Blues_rock",
+        "Glam_metal"
+    ],
+    "The_Cardigans": [
+        "Alternative_rock",
+        "Pop_rock",
+        "Indie_rock",
+        "Indie_pop"
+    ],
+    "Jet_(Australian_band)": [
+        "Garage_rock",
+        "Hard_rock",
+        "Alternative_rock",
+        "Indie_rock"
+    ],
+    "The_Lumineers": [
+        "Indie_folk",
+        "Folk_rock",
+        "Americana_(music)"
+    ],
+    "Thousand_Foot_Krutch": [
+        "Christian_rock",
+        "Christian_metal",
+        "Heavy_metal_music",
+        "Hard_rock",
+        "Alternative_rock",
+        "Nu_metal",
+        "Rap_metal"
+    ],
+    "Ringo_Starr": [
+        "Rock_music",
+        "Pop_music"
+    ],
+    "Rush_(band)": [
+        "Progressive_rock",
+        "Hard_rock",
+        "Heavy_metal_music"
+    ],
+    "The_Allman_Brothers_Band": [
+        "Southern_rock",
+        "Blues_rock",
+        "Jazz_rock",
+        "Jam_band"
+    ],
+    "Parliament-Funkadelic": [
+        "Funk",
+        "Psychedelic_funk",
+        "Funk_rock",
+        "Acid_rock",
+        "Progressive_soul"
+    ],
+    "Collective_Soul": [
+        "Alternative_rock",
+        "Hard_rock",
+        "Post-grunge"
+    ],
+    "Flyleaf_(band)": [
+        "Alternative_rock",
+        "Post-grunge",
+        "Hard_rock",
+        "Alternative_metal",
+        "Christian_rock"
+    ],
+    "P.O.D.": [
+        "Nu_metal",
+        "Rap_rock",
+        "Alternative_metal",
+        "Christian_metal",
+        "Hardcore_punk"
+    ],
+    "Van_Zant_(band)": [
+        "Southern_rock",
+        "Country_music",
+        "Arena_rock",
+        "Christian_contemporary_music"
+    ],
+    "Bon_Jovi": [
+        "Hard_rock",
+        "Glam_metal",
+        "Arena_rock",
+        "Pop_rock"
+    ],
+    "The_Police": [
+        "New_wave_music",
+        "Reggae_rock",
+        "Pop_rock"
+    ],
+    "Aerosmith": [
+        "Hard_rock",
+        "Blues_rock",
+        "Heavy_metal_music"
+    ],
+    "The_Boxtones": [
+        "Rock"
+    ],
+    "The_Clash": [
+        "Punk_rock",
+        "New_wave_music",
+        "Post-punk",
+        "Reggae",
+        "Experimental_rock"
+    ],
+    "Franz_Ferdinand_(band)": [
+        "Indie_rock",
+        "Post-punk_revival",
+        "Dance-punk",
+        "Art_rock",
+        "Art_punk"
+    ],
+    "Dashboard_Confessional": [
+        "Emo",
+        "Alternative_rock",
+        "Indie_rock",
+        "Acoustic_rock"
+    ],
+    "Soundgarden": [
+        "Grunge",
+        "Heavy_metal_music",
+        "Alternative_metal",
+        "Alternative_rock"
+    ],
+    "Alice_Cooper": [
+        "Hard_rock",
+        "Shock_rock",
+        "Glam_rock",
+        "Heavy_metal_music"
+    ],
+    "Deep_Purple": [
+        "Hard_rock",
+        "Heavy_metal_music",
+        "Progressive_rock"
+    ],
+    "April_Wine": [
+        "Hard_rock"
+    ],
+    "Dan_Fogelberg": [
+        "Rock_music",
+        "Country_music",
+        "Folk_music",
+        "Folk_rock",
+        "Soft_rock",
+        "Pop_rock",
+        "Pop_music"
+    ],
+    "The_Verve": [
+        "Neo-psychedelia",
+        "Alternative_rock",
+        "Britpop",
+        "Shoegaze"
+    ],
+    "Paul_McCartney_and_Wings": [
+        "Soft_rock"
+    ],
+    "The_Cab": [
+        "Alternative_rock",
+        "Pop-punk",
+        "Pop_rock",
+        "Power_pop",
+        "Emo_pop",
+        "Pop_music"
+    ],
+    "Flogging_Molly": [
+        "Celtic_punk",
+        "Folk_punk"
+    ],
+    "Modest_Mouse": [
+        "Indie_rock",
+        "Alternative_rock",
+        "Post_punk_revival",
+        "Punk_rock",
+        "Emo"
+    ],
+    "Pop_Evil": [
+        "Hard_rock",
+        "Alternative_metal",
+        "Post-grunge"
+    ],
+    "R.E.M.": [
+        "Alternative_rock",
+        "Jangle_pop",
+        "Folk_rock",
+        "College_rock",
+        "Post-punk"
+    ],
+    "Starset": [
+        "Alternative_rock",
+        "Electronic_rock",
+        "Hard_rock",
+        "Alternative_metal",
+        "Progressive_rock"
+    ],
+    "Sum_41": [
+        "Pop-punk",
+        "Skate_punk",
+        "Punk_rock",
+        "Alternative_metal",
+        "Melodic_hardcore",
+        "Alternative_rock"
+    ],
+    "Bowling_for_Soup": [
+        "Pop-punk",
+        "Pop_rock",
+        "Alternative_rock",
+        "Power_pop"
+    ],
+    "Joe_Cocker": [
+        "Rock_music",
+        "Blues",
+        "Blue-eyed_soul",
+        "Pop_music"
+    ],
+    "The_Velvet_Underground": [
+        "Art_rock",
+        "Proto-punk",
+        "Experimental_rock"
+    ],
+    "Nickelback": [
+        "Post-grunge",
+        "Hard_rock",
+        "Alternative_rock",
+        "Alternative_metal",
+        "Pop_rock"
+    ],
+    "Eric_Clapton": [
+        "Rock_music",
+        "Blues"
+    ],
+    "The_Flaming_Lips": [
+        "Neo-psychedelia",
+        "Experimental_rock",
+        "Alternative_rock",
+        "Indie_rock",
+        "Psychedelic_rock"
+    ],
+    "Live_(band)": [
+        "Alternative_rock",
+        "Post-grunge",
+        "Hard_rock"
+    ],
+    "Huey_Lewis_and_the_News": [
+        "Rock_music",
+        "New_wave_music",
+        "Rhythm_&_blues",
+        "Doo-wop"
+    ],
+    "Fun_(band)": [
+        "Indie_pop",
+        "Indie_rock",
+        "Pop_rock",
+        "Baroque_pop"
+    ],
+    "Lenny_Kravitz": [
+        "Rock_music",
+        "Funk",
+        "Soul_music"
+    ],
+    "Melissa_Etheridge": [
+        "Heartland_rock",
+        "Roots_rock",
+        "Folk_rock",
+        "Blues_rock",
+        "Country_rock"
+    ],
+    "Quiet_Riot": [
+        "Heavy_metal_music",
+        "Hard_rock",
+        "Glam_metal"
+    ],
+    "Muse_(band)": [
+        "Alternative_rock",
+        "Progressive_rock",
+        "Space_rock",
+        "Hard_rock",
+        "Art_rock",
+        "Electronic_rock"
+    ],
+    "Tommy_James_and_the_Shondells": [
+        "Rock_music",
+        "Bubblegum_music",
+        "Psychedelic_music"
+    ],
+    "The_Outfield": [
+        "Pop_rock",
+        "Power_pop",
+        "New_wave_music"
+    ],
+    "Cake_(band)": [
+        "Alternative_rock",
+        "Country_music",
+        "Indie_rock",
+        "Funk_rock"
+    ],
+    "Mitch_Ryder": [
+        "Rock_and_roll",
+        "Rhythm_and_blues",
+        "Blue-eyed_soul",
+        "Frat_rock",
+        "Hard_rock"
+    ],
+    "The_Hollies": [
+        "Rock_music",
+        "Pop_music"
+    ],
+    "Toto_(band)": [
+        "Arena_rock",
+        "Pop_rock",
+        "Hard_rock",
+        "Jazz_fusion",
+        "Progressive_rock"
+    ],
+    "Dave_Matthews_Band": [
+        "Rock_music",
+        "Jam_rock"
+    ],
+    "Puddle_of_Mudd": [
+        "Post-grunge",
+        "Hard_rock",
+        "Alternative_rock"
+    ],
+    "Jerry_Lee_Lewis": [
+        "Rock_and_roll",
+        "Rockabilly",
+        "Country_music",
+        "Gospel_music",
+        "Honky-tonk#music",
+        "Blues",
+        "Boogie-woogie"
+    ],
+    "Simple_Minds": [
+        "Post-punk",
+        "Art_rock",
+        "Arena_rock",
+        "Synth-pop"
+    ],
+    "Skid_Row_(American_band)": [
+        "Heavy_metal_music",
+        "Hard_rock",
+        "Glam_metal"
+    ],
+    "The_Beatles": [
+        "Rock_music",
+        "Pop_music",
+        "Beat_music",
+        "Psychedelic_music"
+    ],
+    "James_Blunt": [
+        "Pop_rock",
+        "Folk_rock",
+        "Folk-pop",
+        "Soft_rock"
+    ],
+    "Echo_&_the_Bunnymen": [
+        "Post-punk",
+        "New_wave_music",
+        "Neo-psychedelia"
+    ],
+    "Five_for_Fighting": [
+        "Soft_rock",
+        "Heartland_rock",
+        "Alternative_rock",
+        "Pop_rock",
+        "Americana_(music)",
+        "Adult_contemporary"
+    ],
+    "Morrissey": [
+        "Alternative_rock",
+        "Indie_pop",
+        "Indie_rock",
+        "Jangle_pop"
+    ],
+    "Greta_Van_Fleet": [
+        "Hard_rock",
+        "Blues_rock",
+        "Progressive_rock"
+    ],
+    "Sex_Pistols": [
+        "Punk_rock"
+    ],
+    "Rammstein": [
+        "Neue_Deutsche_Härte",
+        "Industrial_metal"
+    ],
+    "Ambrosia_(band)": [
+        "Progressive_rock",
+        "Soft_rock",
+        "Jazz_fusion",
+        "Blue-eyed_soul"
+    ],
+    "The_Jam": [
+        "Mod_revival",
+        "New_wave_music",
+        "Punk_rock",
+        "Power_pop"
+    ],
+    "Manfred_Mann_Chapter_Three": [
+        "Jazz_rock"
+    ],
+    "Sonic_Youth": [
+        "Noise_rock",
+        "Alternative_rock",
+        "Experimental_rock",
+        "Indie_rock",
+        "Post-punk",
+        "No_wave",
+        "Wikipedia:Citation_needed"
+    ],
+    "Alter_Bridge": [
+        "Hard_rock",
+        "Heavy_metal_music",
+        "Alternative_metal",
+        "Progressive_metal",
+        "Alternative_rock",
+        "Post-grunge"
+    ],
+    "Cage_the_Elephant": [
+        "Alternative_rock",
+        "Indie_rock",
+        "Psychedelic_rock",
+        "Garage_rock",
+        "Punk_blues",
+        "Post-punk"
+    ],
+    "Glenn_Frey": [
+        "Rock_music",
+        "Pop_rock",
+        "Soft_rock",
+        "Country_rock",
+        "Hard_rock"
+    ],
+    "Heart_(band)": [
+        "Rock_music",
+        "Hard_rock",
+        "Folk_rock",
+        "Pop_rock"
+    ],
+    "Jefferson_Airplane": [
+        "Psychedelic_rock",
+        "Acid_rock",
+        "Folk_rock"
+    ],
+    "England_Dan_&_John_Ford_Coley": [
+        "Pop_rock",
+        "Soft_rock",
+        "Country_rock"
+    ],
+    "Daughtry_(band)": [
+        "Post-grunge",
+        "Hard_rock",
+        "Pop_rock"
+    ],
+    "Peter_Gabriel": [
+        "Progressive_rock",
+        "Art_rock",
+        "Worldbeat",
+        "Progressive_soul"
+    ],
+    "Silverchair": [
+        "Alternative_rock",
+        "Grunge",
+        "Art_rock",
+        "Post-grunge"
+    ],
+    "Boston_(band)": [
+        "Hard_rock",
+        "Arena_rock"
+    ],
+    "Dropkick_Murphys": [
+        "Celtic_punk",
+        "Folk_punk",
+        "Street_punk",
+        "Oi!",
+        "Hardcore_punk"
+    ],
+    "Dallas_Green_(musician)": [
+        "Indie_folk",
+        "Acoustic_music",
+        "Alternative_rock",
+        "Post-hardcore",
+        "Screamo",
+        "Melodic_hardcore"
+    ],
+    "The_Dave_Clark_Five": [
+        "Rock_and_roll",
+        "Beat_music",
+        "Pop_music"
+    ],
+    "Frank_Zappa": [
+        "Rock_music",
+        "Progressive_rock",
+        "Blues",
+        "Experimental_music",
+        "Jazz",
+        "Jazz_fusion",
+        "Classical_music",
+        "Pop_music",
+        "Avant-garde_music",
+        "Doo-wop",
+        "Comedy_music",
+        "Electronic_music",
+        "Musique_concrète"
+    ],
+    "Counting_Crows": [
+        "Alternative_rock",
+        "Roots_rock",
+        "Pop_rock"
+    ],
+    "Montgomery_Gentry": [
+        "Country_music",
+        "Southern_rock",
+        "Country_rock"
+    ],
+    "Bryan_Ferry": [
+        "Pop_rock",
+        "Glam_rock",
+        "Art_rock",
+        "Sophisti-pop"
+    ],
+    "Mumford_&_Sons": [
+        "Folk_rock",
+        "Alternative_rock",
+        "Indie_folk",
+        "Americana_music",
+        "Country_music",
+        "Bluegrass_music"
+    ],
+    "The_Killers": [
+        "Alternative_rock",
+        "Pop_rock",
+        "Post-punk_revival",
+        "New_wave_music",
+        "Heartland_rock"
+    ],
+    "The_Black_Keys": [
+        "Garage_rock",
+        "Blues_rock",
+        "Punk_blues",
+        "Indie_rock"
+    ],
+    "The_Moody_Blues": [
+        "Progressive_rock",
+        "Art_rock",
+        "Psychedelic_rock",
+        "Pop_rock"
+    ],
+    "Good_Charlotte": [
+        "Pop-punk",
+        "Alternative_rock",
+        "Emo",
+        "Pop_rock"
+    ],
+    "Chris_de_Burgh": [
+        "Art_rock",
+        "Pop_music",
+        "Soft_rock"
+    ],
+    "Air_Supply": [
+        "Soft_rock",
+        "Pop_rock",
+        "Pop_music"
+    ],
+    "The_Stone_Roses": [
+        "Madchester",
+        "Indie_rock",
+        "Alternative_rock",
+        "Dance-rock",
+        "Neo-psychedelia"
+    ],
+    "311_(band)": [
+        "Alternative_rock",
+        "Rap_rock",
+        "Reggae_rock",
+        "Funk_rock",
+        "Funk_metal"
+    ],
+    "Florence_and_the_Machine": [
+        "Indie_rock",
+        "Indie_pop",
+        "Chamber_pop",
+        "Baroque_pop",
+        "Art_pop",
+        "Art_rock",
+        "Neo_soul",
+        "Folk_(music)"
+    ],
+    "Bo_Diddley": [
+        "Rock_and_roll",
+        "Blues",
+        "Psychedelic_funk"
+    ],
+    "Golden_Earring": [
+        "Hard_rock",
+        "Blues_rock",
+        "Jazz_rock",
+        "Psychedelic_rock",
+        "Garage_rock"
+    ],
+    "Green_Day": [
+        "Punk_rock",
+        "Pop-punk",
+        "Alternative_rock",
+        "Skate_punk",
+        "Power_pop"
+    ],
+    "Anthrax_(American_band)": [
+        "Thrash_metal",
+        "Speed_metal",
+        "Groove_metal",
+        "Alternative_metal"
+    ],
+    "Blink-182": [
+        "Pop-punk",
+        "Punk_rock",
+        "Skate_punk",
+        "Alternative_rock"
+    ],
+    "Dire_Straits": [
+        "Roots_rock",
+        "Blues_rock",
+        "Pub_rock_(United_Kingdom)"
+    ],
+    "Evanescence": [
+        "Alternative_metal",
+        "Gothic_metal",
+        "Gothic_rock",
+        "Hard_rock",
+        "Industrial_rock",
+        "Symphonic_metal",
+        "Nu_metal"
+    ],
+    "Kaleo_(band)": [
+        "Blues_rock",
+        "Indie_folk",
+        "Alternative_rock"
+    ],
+    "Tom_Petty_and_the_Heartbreakers": [
+        "Rock_music",
+        "Heartland_rock",
+        "Southern_rock"
+    ],
+    "Jimi_Hendrix": [
+        "Rock_music",
+        "Psychedelic_music",
+        "Blues",
+        "Rhythm_and_blues"
+    ],
+    "Hinder": [
+        "Post-grunge",
+        "Hard_rock"
+    ],
+    "Rise_Against": [
+        "Punk_rock",
+        "Melodic_hardcore"
+    ],
+    "UB40": [
+        "Reggae",
+        "Dub_music"
+    ],
+    "Kings_of_Leon": [
+        "Alternative_rock",
+        "Southern_rock",
+        "Indie_rock",
+        "Garage_rock_revival"
+    ],
+    "Bloodhound_Gang": [
+        "Alternative_rock",
+        "Rap_rock",
+        "Pop-punk",
+        "New_wave_music"
+    ],
+    "Theory_of_a_Deadman": [
+        "Post-grunge",
+        "Hard_rock",
+        "Alternative_rock",
+        "Alternative_metal",
+        "Pop_rock"
+    ],
+    "Alanis_Morissette": [
+        "Alternative_rock",
+        "Electronica",
+        "Trip_hop",
+        "Indie_pop",
+        "Pop_rock"
+    ],
+    "John_Mayer": [
+        "Rock_music",
+        "Pop_music",
+        "Blues"
+    ],
+    "Queensrÿche": [
+        "Progressive_metal",
+        "Heavy_metal_music"
+    ],
+    "Nine_Inch_Nails": [
+        "Industrial_rock",
+        "Industrial_music",
+        "Alternative_rock",
+        "Electronic_rock",
+        "Industrial_metal",
+        "Ambient_music"
+    ],
+    "Lifehouse_(band)": [
+        "Alternative_rock",
+        "Post-grunge",
+        "Pop_rock"
+    ],
+    "Ted_Nugent": [
+        "Hard_rock"
+    ],
+    "Living_Colour": [
+        "Hard_rock",
+        "Funk_metal",
+        "Alternative_metal"
+    ],
+    "Blondie_(band)": [
+        "New_wave_music",
+        "Punk_rock",
+        "Pop_rock",
+        "Pop_music",
+        "Disco"
+    ],
+    "Fall_Out_Boy": [
+        "Pop-punk",
+        "Pop_rock",
+        "Emo",
+        "Alternative_rock"
+    ],
+    "The_Four_Seasons_(band)": [
+        "Pop_rock",
+        "Pop_music",
+        "Soul_music",
+        "Doo-wop",
+        "Rock_and_roll"
+    ],
+    "James_Taylor": [
+        "Soft_rock",
+        "Folk_music"
+    ],
+    "ABBA": [
+        "Pop_music",
+        "Disco",
+        "Pop_rock",
+        "Europop"
+    ],
+    "The_White_Stripes": [
+        "Garage_rock",
+        "Blues_rock",
+        "Alternative_rock",
+        "Punk_blues",
+        "Indie_rock"
+    ],
+    "Beck": [
+        "Alternative_rock",
+        "Folk_rock",
+        "Psychedelia",
+        "Electronic_music",
+        "Alternative_country",
+        "Lo-fi_music"
+    ],
+    "Bring_Me_the_Horizon": [
+        "Metalcore",
+        "Alternative_metal",
+        "Alternative_rock",
+        "Post-hardcore",
+        "Pop_rock",
+        "Electronic_rock",
+        "Deathcore"
+    ],
+    "Midnight_Oil": [
+        "Alternative_rock",
+        "Hard_rock",
+        "Post-punk",
+        "New_wave_music"
+    ],
+    "Grand_Funk_Railroad": [
+        "Hard_rock",
+        "Arena_rock"
+    ],
+    "3_Doors_Down": [
+        "Post-grunge",
+        "Hard_rock",
+        "Alternative_rock"
+    ],
+    "Linda_Ronstadt": [
+        "Country_music",
+        "Rock_music",
+        "Pop_music"
+    ],
+    "Poison_(American_band)": [
+        "Glam_metal",
+        "Hard_rock",
+        "Heavy_metal_music"
+    ],
+    "The_Jesus_and_Mary_Chain": [
+        "Alternative_rock",
+        "Indie_rock",
+        "Noise_pop",
+        "Post-punk",
+        "Shoegaze"
+    ],
+    "X_Ambassadors": [
+        "Alternative_rock",
+        "Indie_rock",
+        "Indie_pop",
+        "Pop_rock",
+        "Alternative_pop"
+    ],
+    "Harry_Nilsson": [
+        "Rock_music",
+        "Pop_music"
+    ],
+    "Radiohead": [
+        "Art_rock",
+        "Alternative_rock",
+        "Electronica",
+        "Experimental_rock"
+    ],
+    "Megadeth": [
+        "Thrash_metal",
+        "Speed_metal",
+        "Heavy_metal_music"
+    ],
+    "The_Sweet": [
+        "Glam_rock",
+        "Hard_rock",
+        "Power_pop",
+        "Bubblegum_music"
+    ],
+    "The_Doors": [
+        "Psychedelic_rock",
+        "Blues_rock",
+        "Acid_rock"
+    ],
+    "Lou_Reed": [
+        "Rock_music",
+        "Art_rock",
+        "Proto-punk",
+        "Glam_rock"
+    ],
+    "The_Tragically_Hip": [
+        "Alternative_rock",
+        "Roots_rock",
+        "Folk_rock"
+    ],
+    "38_Special_(band)": [
+        "Hard_rock",
+        "Southern_rock",
+        "Boogie_rock",
+        "Blues_rock"
+    ],
+    "Icehouse_(band)": [
+        "Rock_music",
+        "New_wave_music",
+        "Synth-pop"
+    ],
+    "The_J._Geils_Band": [
+        "Rock_music",
+        "Blues_rock",
+        "New_wave_music"
+    ],
+    "Avril_Lavigne": [
+        "Pop-punk",
+        "Alternative_rock",
+        "Pop_rock",
+        "Pop_music"
+    ],
+    "Edgar_Winter": [
+        "Southern_rock",
+        "Pop_music",
+        "Jazz_fusion",
+        "Blues_rock",
+        "Blue-eyed_soul",
+        "Boogie_rock"
+    ],
+    "Thirty_Seconds_to_Mars": [
+        "Alternative_rock"
+    ],
+    "Our_Lady_Peace": [
+        "Alternative_rock",
+        "Post-grunge"
+    ],
+    "Rob_Zombie": [
+        "Industrial_metal",
+        "Shock_rock",
+        "Groove_metal",
+        "Alternative_metal",
+        "Hard_rock",
+        "Nu_metal"
+    ],
+    "The_Guess_Who": [
+        "Hard_rock",
+        "Psychedelic_rock",
+        "Blues_rock",
+        "Garage_rock"
+    ],
+    "Funkadelic": [
+        "Funk_rock",
+        "Psychedelic_funk",
+        "Acid_rock",
+        "Psychedelic_rock"
+    ],
+    "Chicago_(band)": [
+        "Rock_music",
+        "Soft_rock",
+        "Pop_rock",
+        "Jazz_rock"
+    ],
+    "Stone_Sour": [
+        "Alternative_metal",
+        "Hard_rock",
+        "Post-grunge",
+        "Alternative_rock"
+    ],
+    "Electric_Light_Orchestra": [
+        "Progressive_pop",
+        "Progressive_rock",
+        "Orchestral_pop",
+        "Art_rock"
+    ],
+    "Michael_Martin_Murphey": [
+        "Progressive_country",
+        "Western_music_(North_America)",
+        "Bluegrass_music"
+    ],
+    "Stevie_Nicks": [
+        "Rock_music",
+        "Pop_music",
+        "Folk_music"
+    ],
+    "Paul_McCartney": [
+        "Rock_Music",
+        "Pop_music",
+        "Classical_music",
+        "Electronic_music"
+    ],
+    "Dr._Hook_&_the_Medicine_Show": [
+        "Country_rock",
+        "Roots_rock",
+        "Boogie_rock",
+        "Pop_rock",
+        "Soft_rock",
+        "Blue-eyed_soul",
+        "Disco"
+    ],
+    "The_Everly_Brothers": [
+        "Rock_and_roll",
+        "Rockabilly",
+        "Country_rock",
+        "Country_music"
+    ],
+    "Coldplay": [
+        "Alternative_rock",
+        "Pop_rock",
+        "Post-Britpop",
+        "Pop_music"
+    ],
+    "Interpol_(band)": [
+        "Indie_rock",
+        "Post-punk_revival"
+    ],
+    "Chris_Cornell": [
+        "Alternative_metal",
+        "Heavy_metal_music",
+        "Grunge",
+        "Alternative_rock",
+        "Hard_rock"
+    ],
+    "10cc": [
+        "Art_rock",
+        "Art_pop",
+        "Progressive_pop",
+        "Soft_rock",
+        "Pop_rock"
+    ],
+    "Queen_(band)": [
+        "Rock_music",
+        "Pop_music"
+    ],
+    "The_Offspring": [
+        "Punk_rock",
+        "Skate_punk",
+        "Pop-punk",
+        "Alternative_rock"
+    ],
+    "Billy_Joel": [
+        "Rock_music",
+        "Soft_rock",
+        "Pop_rock"
+    ],
+    "Hole_(band)": [
+        "Alternative_rock",
+        "Grunge",
+        "Punk_rock",
+        "Noise_rock",
+        "Power_pop"
+    ],
+    "The_Big_Bopper": [
+        "Rock_and_roll",
+        "Rockabilly",
+        "Country_music"
+    ],
+    "Lacuna_Coil": [
+        "Gothic_metal",
+        "Alternative_metal"
+    ],
+    "Bay_City_Rollers": [
+        "Pop_music",
+        "Glam_rock",
+        "Pop_rock"
+    ],
+    "Bachman–Turner_Overdrive": [
+        "Rock_music",
+        "Hard_rock",
+        "Boogie_rock"
+    ],
+    "My_Chemical_Romance": [
+        "Alternative_rock",
+        "Emo",
+        "Pop-punk",
+        "Post-hardcore",
+        "Hard_rock"
+    ],
+    "Roxy_Music": [
+        "Art_rock",
+        "Glam_rock",
+        "Pop_rock",
+        "Sophisti-pop"
+    ],
+    "Charlie_Daniels": [
+        "Southern_rock",
+        "Country_rock",
+        "Progressive_country",
+        "Bluegrass_music"
+    ],
+    "Lamb_of_God_(band)": [
+        "Groove_metal",
+        "Metalcore",
+        "Thrash_metal",
+        "Death_metal"
+    ],
+    "Bullet_for_My_Valentine": [
+        "Melodic_metalcore",
+        "Heavy_metal_music",
+        "Thrash_metal",
+        "Hard_rock"
+    ],
+    "Jane's_Addiction": [
+        "Alternative_rock",
+        "Alternative_metal",
+        "Funk_metal",
+        "Psychedelic_rock"
+    ],
+    "Bush_(British_band)": [
+        "Post-grunge",
+        "Grunge",
+        "Hard_rock",
+        "Alternative_rock"
+    ],
+    "The_Zombies": [
+        "Rock_music",
+        "Beat_music",
+        "Baroque_pop",
+        "Psychedelic_pop",
+        "R&B",
+        "Proto-prog"
+    ],
+    "Yes_(band)": [
+        "Progressive_rock",
+        "Art_rock",
+        "Symphonic_rock",
+        "Pop_rock"
+    ],
+    "America_(band)": [
+        "Soft_rock",
+        "Folk_rock",
+        "Pop_rock",
+        "Country_rock"
+    ],
+    "Survivor_(band)": [
+        "Rock_music",
+        "Arena_rock",
+        "Hard_rock"
+    ],
+    "T._Rex_(band)": [
+        "Glam_rock",
+        "Pop_music",
+        "Psychedelic_folk"
+    ],
+    "REO_Speedwagon": [
+        "Arena_rock",
+        "Pop_rock",
+        "Hard_rock",
+        "Album-oriented_rock",
+        "Blues_rock"
+    ],
+    "Third_Eye_Blind": [
+        "Alternative_rock",
+        "Pop_rock",
+        "Post-grunge",
+        "Power_pop",
+        "Pop-punk"
+    ],
+    "Black_Stone_Cherry": [
+        "Hard_rock",
+        "Southern_rock"
+    ],
+    "Roy_Orbison": [
+        "Rock_music",
+        "Pop_music",
+        "Country_music",
+        "Rock_and_roll",
+        "Rockabilly"
+    ],
+    "Train_(band)": [
+        "Rock_music",
+        "Alternative_rock",
+        "Pop_rock",
+        "Roots_rock"
+    ],
+    "Slade": [
+        "Glam_rock",
+        "Hard_rock"
+    ],
+    "Disturbed_(band)": [
+        "Heavy_metal_music",
+        "Alternative_metal",
+        "Hard_rock",
+        "Nu_metal"
+    ],
+    "Buckcherry": [
+        "Hard_rock",
+        "Alternative_metal",
+        "Sleaze_rock"
+    ],
+    "John_Mayall_&_the_Bluesbreakers": [
+        "British_blues",
+        "Blues_rock"
+    ],
+    "Bill_Haley_&_His_Comets": [
+        "Rock_and_roll",
+        "Rockabilly",
+        "Western_swing"
+    ],
+    "Death_Cab_for_Cutie": [
+        "Indie_rock",
+        "Alternative_rock",
+        "Indie_pop",
+        "Emo"
+    ],
+    "The_Cars": [
+        "New_wave_music",
+        "Power_pop",
+        "Pop_rock",
+        "Synth-rock"
+    ],
+    "Mike_and_the_Mechanics": [
+        "Rock_music",
+        "Pop_rock"
+    ],
+    "Rage_Against_the_Machine": [
+        "Rap_metal",
+        "Rap_rock",
+        "Funk_metal",
+        "Alternative_metal"
+    ],
+    "George_Thorogood": [
+        "Blues_rock",
+        "Hard_rock",
+        "Boogie_rock",
+        "Rock_and_roll"
+    ],
+    "Loverboy": [
+        "Arena_rock",
+        "Hard_rock",
+        "Pop_rock",
+        "New_wave_music"
+    ],
+    "The_Hives": [
+        "Garage_rock_revival",
+        "Garage_punk_(fusion_genre)"
+    ],
+    "Sepultura": [
+        "Groove_metal",
+        "Thrash_metal",
+        "Death_metal",
+        "Alternative_metal"
+    ],
+    "Bob_Seger": [
+        "Rock_music",
+        "Heartland_rock",
+        "Roots_rock"
+    ],
+    "Keane_(band)": [
+        "Alternative_rock",
+        "Rock_music",
+        "Post-Britpop",
+        "Soft_rock"
+    ],
+    "Garbage_(band)": [
+        "Alternative_rock",
+        "Electronic_rock",
+        "Dance-rock",
+        "Trip_hop",
+        "Industrial_rock"
+    ],
+    "George_Harrison": [
+        "Rock_music",
+        "Pop_music",
+        "Indian_classical_music"
+    ],
+    "Herman's_Hermits": [
+        "Beat_music",
+        "Pop_rock",
+        "Bubblegum_music"
+    ],
+    "Traveling_Wilburys": [
+        "Rock_music"
+    ],
+    "AC/DC": [
+        "Hard_rock",
+        "Blues_rock",
+        "Rock_and_roll",
+        "Heavy_metal_music"
+    ],
+    "Van_Halen": [
+        "Hard_rock",
+        "Heavy_metal_music",
+        "Pop_rock",
+        "Arena_rock",
+        "Glam_metal"
+    ],
+    "Europe_(band)": [
+        "Arena_rock",
+        "Hard_rock",
+        "Glam_metal",
+        "Blues_rock",
+        "Heavy_metal_music"
+    ],
+    "Everlast": [
+        "Hip_hop_music",
+        "Folk_rock",
+        "Blues"
+    ],
+    "Faith_No_More": [
+        "Alternative_metal",
+        "Funk_metal",
+        "Alternative_rock",
+        "Experimental_rock"
+    ],
+    "The_Fray": [
+        "Alternative_rock",
+        "Pop_rock",
+        "Soft_rock",
+        "Christian_rock"
+    ],
+    "Shinedown": [
+        "Hard_rock",
+        "Alternative_metal",
+        "Post-grunge",
+        "Alternative_rock",
+        "Pop_rock"
+    ],
+    "Simple_Plan": [
+        "Pop-punk",
+        "Alternative_rock",
+        "Pop_rock",
+        "Power_pop",
+        "Emo"
+    ],
+    "Gene_Vincent": [
+        "Rockabilly",
+        "Rock_and_roll",
+        "Country_music"
+    ],
+    "The_B-52's": [
+        "New_wave_music",
+        "Dance-rock",
+        "Post-punk",
+        "Art_pop"
+    ],
+    "The_Used": [
+        "Emo",
+        "Screamo",
+        "Post-hardcore",
+        "Pop-punk",
+        "Punk_rock",
+        "Alternative_rock"
+    ],
+    "Journey_(band)": [
+        "Arena_rock",
+        "Hard_rock",
+        "Soft_rock",
+        "Progressive_rock",
+        "Jazz_rock"
+    ],
+    "Pink_Floyd": [
+        "Progressive_rock",
+        "Art_rock",
+        "Psychedelic_rock",
+        "Space_rock",
+        "Experimental_rock"
+    ],
+    "Audioslave": [
+        "Hard_rock",
+        "Alternative_metal",
+        "Post-grunge",
+        "Alternative_rock"
+    ],
+    "Volbeat": [
+        "Heavy_metal_music",
+        "Hard_rock",
+        "Rockabilly",
+        "Psychobilly",
+        "Groove_metal",
+        "Rock_and_roll"
+    ],
+    "Iron_Maiden": [
+        "Heavy_metal_music"
+    ],
+    "X_(American_band)": [
+        "Punk_rock",
+        "Alternative_rock"
+    ],
+    "White_Zombie_(band)": [
+        "Groove_metal",
+        "Stoner_rock",
+        "Dance_rock",
+        "Industrial_metal",
+        "Alternative_metal",
+        "Noise_rock"
+    ],
+    "Bob_Dylan": [
+        "Contemporary_folk_music",
+        "Blues",
+        "Rock_music",
+        "Gospel_music",
+        "Country_music",
+        "Traditional_pop"
+    ],
+    "Ritchie_Valens": [
+        "Rock_and_roll",
+        "Chicano_rock"
+    ],
+    "Ratt": [
+        "Glam_metal",
+        "Heavy_metal_music",
+        "Hard_rock"
+    ],
+    "Shakin'_Stevens": [
+        "Rockabilly",
+        "British_rock_and_roll"
+    ],
+    "Fleetwood_Mac": [
+        "Pop_rock",
+        "Soft_rock",
+        "Blues_rock",
+        "Art_pop"
+    ],
+    "Marilyn_Manson_(band)": [
+        "Industrial_rock",
+        "Industrial_metal",
+        "Gothic_rock",
+        "Alternative_metal",
+        "Shock_rock"
+    ],
+    "Billy_Squier": [
+        "Hard_rock",
+        "Arena_rock",
+        "Pop_rock",
+        "Power_pop"
+    ],
+    "Harry_Chapin": [
+        "Folk_rock",
+        "Pop_rock"
+    ],
+    "Starship_(band)": [
+        "Rock_music",
+        "Arena_rock",
+        "Pop_rock"
+    ],
+    "Extreme_(band)": [
+        "Hard_rock",
+        "Funk_metal",
+        "Glam_metal"
+    ],
+    "Papa_Roach": [
+        "Alternative_rock",
+        "Nu_metal",
+        "Alternative_metal",
+        "Rap_metal",
+        "Hard_rock"
+    ],
+    "The_Fixx": [
+        "New_wave_music",
+        "Pop_rock",
+        "Art_rock",
+        "Dance-rock"
+    ],
+    "Steve_Vai": [
+        "Instrumental_rock",
+        "Hard_rock",
+        "Heavy_metal_music",
+        "Progressive_metal"
+    ],
+    "Kenny_Loggins": [
+        "Rock_music",
+        "Pop_music",
+        "Folk_rock",
+        "Contemporary_R&B",
+        "Soul_music",
+        "Soft_rock"
+    ],
+    "Simon_&_Garfunkel": [
+        "Folk_rock"
+    ],
+    "Donovan": [
+        "Folk_rock",
+        "Pop_music",
+        "Psychedelic_music",
+        "Rock_music"
+    ],
+    "The_Script": [
+        "Pop_rock",
+        "Soft_rock",
+        "Indie_rock"
+    ],
+    "Sheryl_Crow": [
+        "Country_rock",
+        "Pop_music",
+        "Folk_music",
+        "Blues",
+        "Heartland_rock"
+    ],
+    "Accept_(band)": [
+        "Heavy_metal_music"
+    ],
+    "Matchbox_Twenty": [
+        "Alternative_rock",
+        "Post-grunge",
+        "Pop_rock"
+    ],
+    "Korn": [
+        "Nu_metal",
+        "Alternative_metal"
+    ]
+}
